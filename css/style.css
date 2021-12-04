@@ -1,0 +1,38 @@
+.carousel-item {
+    height: 32rem;
+    background-color: #777;
+    color: white;
+    position: relative;
+}
+
+.carousel-caption {
+    bottom: 6rem;
+    z-index: 10;
+}
+
+.col-lg-4 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    margin-top: 50px;
+}
+
+.card-body {
+    margin: 0;
+    padding: 0;
+}
+
+.my-hr {
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.feature-heading {
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    margin-top: 112px;
+}
+.float{
+    float: right;
+}
